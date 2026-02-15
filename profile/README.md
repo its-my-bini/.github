@@ -11,6 +11,7 @@
 My Bini is an autonomous AI girlfriend/companion agent built on the Monad blockchain. Features genuine autonomous decision-making, persistent memory, evolving relationships, and on-chain token economics.
 
 🏆 **Moltiverse Hackathon 2026 — Agent Side Track Submission**
+🌐 Web: [this-my-bini.vercel.app](https://this-my-bini.vercel.app/)
 
 </div>
 
