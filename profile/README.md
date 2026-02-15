@@ -133,7 +133,7 @@ My Bini is an autonomous AI companion that lives on the Monad blockchain. Unlike
 
 1. **Connect Wallet** — Users connect via RainbowKit/WalletConnect
 2. **Select Persona** — Choose from sweet, tsundere, or playful personalities
-3. **Deposit MON** — Send MON to treasury contract (1 MON = 100 tokens)
+3. **Deposit MON** — Send MON to treasury contract (1 MON = 250 tokens)
 4. **Chat** — Each message costs tokens based on word count
 5. **Build Relationship** — Intimacy grows with meaningful interactions
 6. **Receive Proactive Messages** — AI autonomously sends contextual greetings
