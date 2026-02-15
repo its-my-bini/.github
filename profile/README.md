@@ -191,7 +191,7 @@ My Bini is an autonomous AI companion that lives on the Monad blockchain. Unlike
 1. User sends MON → Contract
 2. Backend verifies on-chain via Monad RPC using Viem
 3. Validates recipient/amount/prevents double-processing
-4. Credits in-app tokens (1 MON = 100 tokens)
+4. Credits in-app tokens (1 MON = 250 tokens)
 
 ---
 
