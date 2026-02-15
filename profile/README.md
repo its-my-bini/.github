@@ -54,7 +54,7 @@ My Bini is an autonomous AI companion that lives on the Monad blockchain. Unlike
   - Contextually appropriate timing without human intervention
 
 - **💰 On-Chain Economics** — Token deposits, balance tracking, and transactions verified on Monad blockchain
-  - 1 MON = 100 in-app tokens
+  - 1 MON = 250 in-app tokens
   - Message costs based on word count
   - On-chain verification via smart contract
 
